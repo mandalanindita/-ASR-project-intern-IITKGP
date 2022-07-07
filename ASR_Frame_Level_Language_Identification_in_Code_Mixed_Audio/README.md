@@ -71,6 +71,7 @@ which are almost equal to 1 using numpy library of python.
  
  - There are no publications on frame level language identification in code-mixed audio except for the one submission by Vocapia-LIMSI in a competition.
  - No official public datasets are avaialable for frame level language identification in code-mixed audio.
+ - Both the Baseline and the Vocapia-LIMSI submissions are very vague and not 
  
  ## Future Work
  - As there are are no prior work available on frame level language identification in code-mixed audio, and no publicly availalbe datasets, we have to start from scratch.
