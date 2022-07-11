@@ -29,9 +29,9 @@ Speaker diarization is the process of partitioning an audio stream with multiple
 
 
 ## References
-1. [SPEAKER DIARIZATION USING DEEP NEURAL NETWORK EMBEDDINGS](/2017_icassp_diarization_embeddings.pdf)
-2. [Speaker Adaptive Model for Hindi Speech using Kaldi Speech Recognition toolkit](/2017_SpeakerAdaptiveModelforHindiSpeechusingKaldiSpeechRecognitiontoolkit_IMPACT_2107.pdf)
-3. [Bayesian Learning for Deep Neural Network Adaptation](/BayesianLearnigDNNAdaptation.pdf)
-4. [On Speaker-Independent, Speaker-Dependent, and Speaker-Adaptive Speech Recognition](/icassp.1991.150478.pdf)
-5. [SPEAKER ADAPTIVE TRAINING USING MODEL AGNOSTIC META-LEARNING](/satmaml.pdf)
-6. [Speaker Adaptive Training of Deep Neural Network Acoustic Models using I-vectors](/tasl_sat.pdf)
+1. [SPEAKER DIARIZATION USING DEEP NEURAL NETWORK EMBEDDINGS](2017_icassp_diarization_embeddings.pdf)
+2. [Speaker Adaptive Model for Hindi Speech using Kaldi Speech Recognition toolkit](2017_SpeakerAdaptiveModelforHindiSpeechusingKaldiSpeechRecognitiontoolkit_IMPACT_2107.pdf)
+3. [Bayesian Learning for Deep Neural Network Adaptation](BayesianLearnigDNNAdaptation.pdf)
+4. [On Speaker-Independent, Speaker-Dependent, and Speaker-Adaptive Speech Recognition](icassp.1991.150478.pdf)
+5. [SPEAKER ADAPTIVE TRAINING USING MODEL AGNOSTIC META-LEARNING](satmaml.pdf)
+6. [Speaker Adaptive Training of Deep Neural Network Acoustic Models using I-vectors](tasl_sat.pdf)
