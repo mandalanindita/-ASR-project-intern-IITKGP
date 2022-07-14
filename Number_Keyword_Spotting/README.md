@@ -1,4 +1,4 @@
-# Hitachi-ASR
+# Number and Keyword Spotting
 
 ## Contributors
 - Aniket Kumar
