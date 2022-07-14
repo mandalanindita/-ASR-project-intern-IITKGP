@@ -1,5 +1,7 @@
 # Frame Level Language Identification in Code-Mixed Text
 
+## Contributor - **Sridhara Manideep**
+
 ## Competitions
 
 - [Microsoft's First Workshop on Speech Technologies for Code-switching in Multilingual Communities 2020](https://www.microsoft.com/en-us/research/event/workshop-on-speech-technologies-for-code-switching-2020/shared-task/)
